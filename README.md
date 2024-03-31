@@ -15,3 +15,7 @@ Step 2:-
 server setup for the flask server
 `pip3 install gunicorn`
 `gunicorn --bind 0.0.0.0:8000 server:app` # you can increase no of workers using --workers
+
+# Sample API usage
+
+<img src="https://i.ibb.co/X3XCyMC/Screenshot-2024-03-31-at-8-51-48-AM.png" alt="[POST] /summarize api end point" />
